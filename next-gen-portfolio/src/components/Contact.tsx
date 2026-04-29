@@ -15,9 +15,9 @@ export default function Contact() {
           viewport={{ once: false, margin: "-100px" }}
           transition={{ duration: 0.8, ease: "easeOut" }}
         >
-          <h3 className="text-4xl md:text-6xl font-bold mb-8 text-white tracking-tighter">Let's <span className="text-transparent bg-clip-text bg-gradient-to-r from-red-500 to-orange-500">Connect</span></h3>
+          <h3 className="text-4xl md:text-6xl font-bold mb-8 text-white tracking-tighter">Let&apos;s <span className="text-transparent bg-clip-text bg-gradient-to-r from-red-500 to-orange-500">Connect</span></h3>
           <p className="text-gray-400 text-lg mb-12 max-w-md leading-relaxed">
-            I'm always interested in new opportunities and exciting projects. Whether you have a question or just want to say hi, I'll try my best to get back to you!
+            I&apos;m always interested in new opportunities and exciting projects. Whether you have a question or just want to say hi, I&apos;ll try my best to get back to you!
           </p>
           <div className="flex flex-col gap-8">
             <motion.div whileHover={{ x: 10 }} className="flex items-center gap-6 group cursor-pointer">

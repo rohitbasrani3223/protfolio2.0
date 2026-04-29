@@ -37,7 +37,7 @@ export default function About() {
         >
           <h3 className="text-4xl md:text-6xl font-bold mb-8 text-white tracking-tighter">About <span className="text-transparent bg-clip-text bg-gradient-to-r from-red-500 to-orange-500">Me</span></h3>
           <p className="text-gray-400 text-lg leading-relaxed mb-6">
-            I'm currently working as a <span className="text-red-400 font-bold uppercase tracking-wide">Junior DevOps Engineer</span> at <span className="text-white font-medium">WithAspireNetexis Pvt Ltd</span>, focusing on automating deployment processes, managing cloud infrastructure, and ensuring system reliability.
+            I&apos;m currently working as a <span className="text-red-400 font-bold uppercase tracking-wide">Junior DevOps Engineer</span> at <span className="text-white font-medium">WithAspireNetexis Pvt Ltd</span>, focusing on automating deployment processes, managing cloud infrastructure, and ensuring system reliability.
           </p>
           <p className="text-gray-400 text-lg leading-relaxed mb-12">
             My programming foundation was built through comprehensive Python training at SK Python Classes, founded by Rajneesh Pachouri, where I mastered Python fundamentals and advanced concepts.
